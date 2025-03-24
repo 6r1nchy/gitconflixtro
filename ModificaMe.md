@@ -1,2 +1,1 @@
-Primeira linha do arquivo
-Primeira alteração do arquivo
+Alteração feita na 1st-branch.
